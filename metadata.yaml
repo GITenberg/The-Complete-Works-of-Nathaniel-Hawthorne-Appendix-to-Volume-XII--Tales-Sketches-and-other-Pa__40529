@@ -1,0 +1,32 @@
+_repo: The-Complete-Works-of-Nathaniel-Hawthorne-Appendix-to-Volume-XII--Tales-Sketches-and-other-Pa__40529
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40529-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lathrop, George Parsons
+    birthdate: 1851
+    deathdate: 1898
+    gutenberg_agent_id: '2341'
+    url: http://www.gutenberg.org/2009/agents/2341
+    wikipedia: http://en.wikipedia.org/wiki/George_Parsons_Lathrop
+description: ''
+gutenberg_issued: '2012-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40529'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hawthorne, Nathaniel, 1804-1864'
+- !lcsh 'Novelists, American -- 19th century -- Biography'
+- !lcc 'PS'
+title: 'The Complete Works of Nathaniel Hawthorne, Appendix to Volume XII: Tales,
+  Sketches, and other Papers by Nathaniel Hawthorne with a Biographical Sketch by
+  George Parsons Lathrop
+
+  Biographical Sketch of Nathaniel Hawthorne'
+url: http://www.gutenberg.org/ebooks/40529
